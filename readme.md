@@ -36,4 +36,4 @@ Next, check what more mentioned by [Here](https://github.com/orgs/csci3250-2019/
 
 Oh seems like I did everything already. So that's the end of my repo. :relieved:
 
-# Bye さよなら 再見
+# Bye さよなら 再見 wink
