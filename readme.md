@@ -17,15 +17,9 @@ So back to the main topic.
 
 Well, isn't it obvious to finish my project.
 
-by including **task list** like this
+First, let's add a table here.
 
-- [ ] I am not clicking this since I don't like the first one
-- [x] But click this sicne leave everything empty feels weird
-- [ ] And add this empty at last to make it looks symmetry
-
-What's left is the table only, but I cannot think of what to include in, so......
-
-Here's a JK Flip-Flop
+Here's a JK Flip-Flop I learned in *ENGG2020 Digital Logic and System* (more like search back the lecture notes from last semester since I forgot everything from this course)
 
 Q(n) | Q(n+1) | J | K
 ---- | ------ | - | -
@@ -34,34 +28,14 @@ Q(n) | Q(n+1) | J | K
 1 | 0 | x | 1
 1 | 1 | x | 0
 
-# This is an tag
-## This is an tag
-###### This is an tag
+Next, check what more mentioned by [GitHub](https://github.com/orgs/csci3250-2019/teams/students) I need to add in this readme.md 
 
-*This text will be italic*
-_This will also be italic_
+- [x] Header
+- [x] Emphasis
+- [x] List 
+- [x] Task List
+- [x] Table
 
-**This text will be bold**
-__This will also be bold__
+Oh seems like I did everything already. So that's the end of my repo.
 
-_You **can** combine them_
-
-
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
-
-
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
-
-
+# Bye さよなら 再見
