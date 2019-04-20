@@ -1,5 +1,3 @@
-# Testing
-
 # Hi こんにちは 你好
 
 I am **SZETO Win Key**, Year 2 student studying *Computer Science* in CUHK
