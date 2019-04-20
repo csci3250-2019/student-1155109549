@@ -1,4 +1,4 @@
-# Hi こんにちは 你好 :laughing:
+# Hi こんにちは 你好 :laughing: 
 
 I am **SZETO Win Key**, Year 2 student studying *Computer Science* in CUHK :mahjong: :beers:
 
