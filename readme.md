@@ -28,7 +28,7 @@ Q(n) | Q(n+1) | J | K
 1 | 0 | x | 1
 1 | 1 | x | 0
 
-Next, check what more mentioned by [GitHub](https://github.com/orgs/csci3250-2019/teams/students) I need to add in this readme.md 
+Next, check what more mentioned by [Here](https://github.com/orgs/csci3250-2019/teams/students) I need to add in this readme.md 
 
 - [x] Header
 - [x] Emphasis
