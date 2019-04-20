@@ -36,4 +36,6 @@ Next, check what more mentioned by [Here](https://github.com/orgs/csci3250-2019/
 
 Oh seems like I did everything already. So that's the end of my repo. :relieved:
 
+P.S. Emoji reference from [Here](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#table-of-contents)
+
 # Bye さよなら 再見 :wink:
